@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="connect-flames-preview.png" width="100%" alt="Connect Flames website preview">
+</p>
 # Connect Flames
 
 A student community and peer-support platform designed to help university students connect, share experiences, ask questions, and navigate campus life.
