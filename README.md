@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdulansar417/connect-flames/main/Flames%20Connect%20Home%20Page.tiff" width="100%" alt="Connect Flames website preview">
-</p>
+![Connect Flames website preview](connect-flames-preview.png)
 # Connect Flames
 
 A student community and peer-support platform designed to help university students connect, share experiences, ask questions, and navigate campus life.
