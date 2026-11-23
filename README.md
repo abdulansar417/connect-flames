@@ -1,4 +1,5 @@
-![Connect Flames website preview](connect-flames-preview.png)
+![Connect Flames Homepage](https://raw.githubusercontent.com/abdulansar417/connect-flames/main/connect-flames-preview.png)
+
 # Connect Flames
 
 A student community and peer-support platform designed to help university students connect, share experiences, ask questions, and navigate campus life.
