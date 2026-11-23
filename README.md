@@ -1,5 +1,4 @@
-![Connect Flames Homepage](https://raw.githubusercontent.com/abdulansar417/connect-flames/main/connect-flames-preview.png)
-
+<img src="https://github.com/abdulansar417/connect-flames/blob/main/connect-flames-preview.png?raw=true" width="100%" alt="Connect Flames Homepage">
 # Connect Flames
 
 A student community and peer-support platform designed to help university students connect, share experiences, ask questions, and navigate campus life.
