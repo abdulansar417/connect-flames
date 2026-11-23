@@ -20,7 +20,7 @@ Connect Flames aims to make the university experience easier for students, parti
 
 ## Live Website
 
-Visit the project: **[ADD YOUR WEBSITE LINK HERE]**
+Visit the project: https://flamesconnect.com
 
 ## Purpose
 
